@@ -1,3 +1,9 @@
+![To-do List - Google Chrome 25_12_2024 14_38_59](https://github.com/user-attachments/assets/190ba812-cb67-425b-8de8-633c8f08fb6e)
+
+![To-do List - Google Chrome 25_12_2024 14_39_46](https://github.com/user-attachments/assets/6f6bb187-f28f-469e-b336-3bfecae109cd)
+
+
+
 # AppTodo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
